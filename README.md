@@ -3,7 +3,7 @@
     <img src="https://sabanciuniv.edu/themes/custom/su/logo.svg" alt="SU Logo" width="300"/>
 </div>
 
-<h3 align="center"> - Delivery Hero Tech Hub </h3>
+<h3 align="center"> Product Analytics - Delivery Hero Tech Hub </h3>
 <br>
 <div align="center">
     <img src="https://d2h6a0o5wtvbq1.cloudfront.net/wp-content/uploads/2022/04/Delivery_Hero_food_delivery_logo.svg_.png" alt="Delivery Hero Logo" width="300"/>
